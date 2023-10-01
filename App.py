@@ -38,7 +38,7 @@ def login_page():
             success_placeholder = st.empty()
             with st.spinner(text = 'Logging In'):
                 sleep(2)
-                st.success('Logged In')
+                #st.success('Logged In')
             success_placeholder.empty()
             placeholder.empty()
             main() 
