@@ -69,5 +69,5 @@ def main():
         DOT_table(project)
         
 if __name__ == '__main__':
-    login_page()    
+    main()    
     
